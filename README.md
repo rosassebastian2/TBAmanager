@@ -1,2 +1,3 @@
-# MA1031
-Estadistica, equipo 4
+# TBAmanager
+Sebastian Rosas Maciel
+
